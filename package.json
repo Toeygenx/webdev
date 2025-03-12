@@ -1,0 +1,14 @@
+{
+  "name": "webdev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Toeygenx/webdev.git",
+  "author": "Toeygenx <thanlast99@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.22.19"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0"
+  }
+}
